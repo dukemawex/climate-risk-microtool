@@ -1,0 +1,21 @@
+{
+  "query": "climate risk assessment framework TCFD IPCC NGFS methodology",
+  "retrieval": "fallback",
+  "results": [
+    {
+      "title": "TCFD Recommendations",
+      "url": "https://www.fsb-tcfd.org/recommendations/",
+      "snippet": "Task Force guidance for governance, strategy, risk management, metrics and targets."
+    },
+    {
+      "title": "IPCC AR6 Synthesis Report",
+      "url": "https://www.ipcc.ch/report/ar6/syr/",
+      "snippet": "Scientific assessment of climate hazards, vulnerabilities, and adaptation pathways."
+    },
+    {
+      "title": "NGFS Climate Scenarios Portal",
+      "url": "https://www.ngfs.net/ngfs-scenarios-portal/",
+      "snippet": "Scenario set for assessing transition and physical climate risks."
+    }
+  ]
+}
